@@ -1,0 +1,30 @@
+ [
+    {
+        "id":1,
+        "nombre": "harina",
+        "precio":  50,
+        "img": "./img/harina.jpg",
+        "cantidad": 1
+    },
+    {
+        "id":2,
+        "nombre": "galletitas",
+        "precio": 100,
+        "img": "./img/galletitas.jpg",
+        "cantidad": 1
+    },
+    {
+        "id":3,
+        "nombre": "cerveza",
+        "precio": 150,
+        "img": "./img/cerveza.jpg",
+        "cantidad": 1
+    },
+    {
+        "id":4 ,
+        "nombre": "leche",
+        "precio": 200,
+        "img": "./img/leche.jpg",
+        "cantidad":  1
+    }
+]
